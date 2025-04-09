@@ -53,7 +53,8 @@ class FoodItem {
 final List<FoodItem> foodItems = [
   FoodItem(
     name: "Margherita Pizza",
-    imageUrl: "https://source.unsplash.com/random/?pizza",
+    imageUrl:
+        "https://secretrecipebd.com/wp-content/uploads/2021/07/Pizza-BBQ-Chicken-.jpg",
     price: 12.99,
     description:
         "Classic Margherita pizza with tomato sauce, mozzarella, and fresh basil.",
@@ -64,7 +65,7 @@ final List<FoodItem> foodItems = [
   FoodItem(
     name: "Chicken Burger",
     imageUrl:
-        "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg",
+        "https://fantabulosity.com/wp-content/uploads/2021/10/Crispy-Chicken-Burger-500x500.jpg",
     price: 9.99,
     description:
         "Juicy chicken burger with lettuce, tomato, and special sauce.",
@@ -74,7 +75,8 @@ final List<FoodItem> foodItems = [
   ),
   FoodItem(
     name: "Vegetable Pasta",
-    imageUrl: "https://source.unsplash.com/random/?pasta",
+    imageUrl:
+        "https://www.eatwell101.com/wp-content/uploads/2023/03/vegetarian-pasta-recipe.jpg",
     price: 11.50,
     description: "Healthy vegetable pasta with homemade tomato sauce.",
     ingredients: [
@@ -90,7 +92,8 @@ final List<FoodItem> foodItems = [
   ),
   FoodItem(
     name: "Caesar Salad",
-    imageUrl: "https://source.unsplash.com/random/?salad",
+    imageUrl:
+        "https://steamandbake.com/wp-content/uploads/2022/02/Chicken-Caesar-hero-web-1080x675-1.jpg",
     price: 8.99,
     description:
         "Fresh Caesar salad with grilled chicken, croutons, and Caesar dressing.",
@@ -106,7 +109,8 @@ final List<FoodItem> foodItems = [
   ),
   FoodItem(
     name: "Sushi Roll",
-    imageUrl: "https://source.unsplash.com/random/?sushi",
+    imageUrl:
+        "https://howdaily.com/wp-content/uploads/2017/12/las-vegas-roll-800x534.jpg?x19738",
     price: 14.99,
     description: "Fresh sushi roll with salmon, avocado, and cucumber.",
     ingredients: ["Rice", "Nori", "Salmon", "Avocado", "Cucumber", "Soy Sauce"],
@@ -115,7 +119,8 @@ final List<FoodItem> foodItems = [
   ),
   FoodItem(
     name: "Chocolate Cake",
-    imageUrl: "https://source.unsplash.com/random/?cake",
+    imageUrl:
+        "https://butternutbakeryblog.com/wp-content/uploads/2023/04/chocolate-cake.jpg",
     price: 6.99,
     description: "Delicious chocolate cake with chocolate ganache.",
     ingredients: [
