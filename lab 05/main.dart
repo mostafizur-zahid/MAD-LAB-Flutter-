@@ -5,7 +5,7 @@ void main() {
 }
 
 class ToDoListApp extends StatelessWidget {
-  const ToDoListApp({Key? key}) : super(key: key);
+  const ToDoListApp({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -30,7 +30,7 @@ class Task {
 }
 
 class HomeScreen extends StatefulWidget {
-  const HomeScreen({Key? key}) : super(key: key);
+  const HomeScreen({super.key});
 
   @override
   State<HomeScreen> createState() => _HomeScreenState();
